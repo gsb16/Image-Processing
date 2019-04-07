@@ -16,7 +16,7 @@ Projeto da disciplina ci067 de 2016/2
 
 ## Execução:
 - Os parâmetros do comando podem ser colocados de formas variadas
-- No caso da saída "Dicionario nao encontrado", instalar com o comando:
+- Usar o nome do filtro desejado em filtro<nome> como no exemplo "filtronegativo"
 ```
 // entrada e saída em arquivos
 ./filtro<nome> -i inputfile.pgm -o outputfile.pgm
